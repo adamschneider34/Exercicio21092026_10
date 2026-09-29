@@ -1,5 +1,3 @@
-package exercicio_10;
-
 import javax.swing.JOptionPane;
 
 public class Principal {
